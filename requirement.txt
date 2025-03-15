@@ -1,0 +1,12 @@
+opencv-python
+deepface
+ultralytics
+pillow
+numpy
+torch
+torchvision
+matplotlib
+pandas
+scikit-learn
+tqdm
+pickle5
